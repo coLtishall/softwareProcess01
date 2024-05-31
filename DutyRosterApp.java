@@ -23,7 +23,7 @@ public class DutyRosterApp {
     private static DutyIntervalSet<Employee> dutySet = null;
 
     // Abstract function:
-    // 一个值班排班应用，它管理和调度员工的值班。它有一个值班时间表 dutySet，
+    // 值班排班应用，它管理和调度员工的值班。它有一个值班时间表 dutySet，
     // 它是一个 DutyIntervalSet 对象，表示整个值班时间段。
     // 它有一个员工状态表 PeopleWithStatus，它是一个映射，键是 Employee 对象，值是布尔值，
     // 表示该员工是否已被安排值班bel存储在L中的MultiIntervalSet组成的集合，
