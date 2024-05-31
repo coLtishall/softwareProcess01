@@ -76,7 +76,7 @@ public class DutyRosterApp {
     }
 
     /**
-     * 将用户输入的有效部分转换为long形式
+     * 将用户输入的有效部分转换为一个long形式
      * @param year 对应有效年
      * @param month 对应有效月
      * @param day 对应有效日
